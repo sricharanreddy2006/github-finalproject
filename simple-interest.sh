@@ -1,0 +1,1 @@
+The CONTRIBUTING.md file has been created in the GitHub repository as per the task requirements. This file provides clear guidelines for contributing to the project, including instructions for reporting issues, creating branches, and submitting pull requests. It helps maintain consistency in contributions and makes it easier for new contributors to get started.
