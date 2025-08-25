@@ -1,0 +1,1 @@
+Yes, the repository contains a README.md file. This file is used to provide information about the project, such as its purpose, features, and usage instructions. In the current repository, the README.md file displays the details of the Apache License 2.0, giving users an overview of the licensing terms directly from the project’s main page.
